@@ -1,0 +1,19 @@
+.user-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.user-card {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+button {
+    background: rgb(112, 135, 209);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
